@@ -96,7 +96,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed = 3;
-Typer.file = "altay.html";
+Typer.file = "batuhanayhan.html";
 Typer.init();
 
 var timer = setInterval("t();", 30);
