@@ -14,5 +14,10 @@ Then this website template is for you.
 
 A Fake terminal website for coders.
 
-Lütfen asıl kaynaktan alınız.
 
+Melih Altay Hacettepe University
+Geomatic Engineering
+
+
+
+Pulled from : https://github.com/rimijoker/Fake_Terminal_Resume_Website
